@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋 My name is Alexey. Welcome! ✌️
 
 <!--
 **F-Alexey/F-Alexey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About me
+I am 21 year old programmer from Saint-Petersburg, Russia 💻
+I learn Java at Job4j ☕
+I learn Computer science in St. Petersburg Industrial and Economic College and Saint Petersburg State University of Industrial Technologies and Design. 🏢
+My Java expirience is 1 year ⌚
