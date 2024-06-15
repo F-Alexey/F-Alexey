@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About me
-I am 21 year old programmer from Saint-Petersburg, Russia 💻
-I learn Java at Job4j ☕
-I learn Computer science in St. Petersburg Industrial and Economic College and Saint Petersburg State University of Industrial Technologies and Design. 🏢
-My Java expirience is 1 year ⌚
+- About me
+- I am 21 year old programmer from Saint-Petersburg, Russia 💻
+- I learn Java at Job4j ☕
+- I learn Computer science in St. Petersburg Industrial and Economic College and Saint Petersburg State University of Industrial Technologies and Design. 🏢
+- My Java expirience is 1 year ⌚
